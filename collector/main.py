@@ -41,4 +41,4 @@ if __name__ == "__main__":
         collector_loop()
     except Exception as e:
         print(f"[collector] fatal error: {e}")
-        sys.exit(1)
+        sys.exit(1) 
